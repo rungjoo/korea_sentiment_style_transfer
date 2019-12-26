@@ -1,0 +1,351 @@
+1번째 입력과 문장 생성!!
+굳 ㅋ positive
+Real attributes recon:  괜찮네요 ^ ^ :  positive
+Fake attributes recon:  괜찮네요 [UNK] :  positive
+Encoder-Decoder Recurrent recon:  괜굳!
+real-fake-real Recurrent recon:  또이 근
+
+2번째 입력과 문장 생성!!
+GDNTOPCLASSINTHECLUB negative
+Real attributes recon:  재미없음 [UNK] :  negative
+Fake attributes recon:  [UNK] 재밋어요 ^ ^ :  positive
+Encoder-Decoder Recurrent recon:  재gt [UNK] [UNK]
+real-fake-real Recurrent recon:  넘g 재 10 봤 이서 내
+
+3번째 입력과 문장 생성!!
+뭐야 이 평점들은.... 나쁘진 않지만 10점 짜리는 더더욱 아니잖아 negative
+Real attributes recon:  뭐야 이게... 평점이 왜 이렇게 낮은지.... :  positive
+Fake attributes recon:  뭐야 이게... 평점이 왜 이렇게 낮은지.... :  positive
+Encoder-Decoder Recurrent recon:  뭐야 이게점..... 이도지 않았 이점은리거 [UNK]욱.
+real-fake-real Recurrent recon:  뭐야.게점이.....도지 않았 이점은리거 [UNK]욱.
+
+4번째 입력과 문장 생성!!
+지루하지는 않은데 완전 막장임... 돈주고 보기에는.... negative
+Real attributes recon:  지루하고 지루하고.... 그냥 그냥 영화보면서 욕만나오네... :  negative
+Fake attributes recon:  지금봐도 정말 감동적이다............. :  positive
+Encoder-Decoder Recurrent recon:  지루하고않 않데.전 쓰장.....아고 보기는.....
+real-fake-real Recurrent recon:  지금하고도 않데.전.장.....아고 보기는....
+
+5번째 입력과 문장 생성!!
+3D만 아니었어도 별 다섯 개 줬을텐데.. 왜 3D로 나와서 제 심기를 불편하게 하죠?? negative
+Real attributes recon:  3류도 아니고 이게 뭐야???????????????????? :  negative
+Fake attributes recon:  3d는 이제서야 봤는데, 이건 뭐지???????????????? :  negative
+Encoder-Decoder Recurrent recon:  3류는 보니면으면도 이로섯개봉을까데.. 이 이점로 보온서 봤일리 보러했다 만네.
+real-fake-real Recurrent recon:  3류는 이니면으면도 이로섯개봉을까데... 이점로 만온서 봤일심 [UNK]러했다 만네.
+
+6번째 입력과 문장 생성!!
+음악이 주가 된, 최고의 음악영화 positive
+Real attributes recon:  이영화의 최고의 작품이다. :  positive
+Fake attributes recon:  이영화의 진수함이 아니다. :  positive
+Encoder-Decoder Recurrent recon:  이이 최고는리 영화,의 영화영화
+real-fake-real Recurrent recon:  이영 최고인리 작,의 드라마영화.
+
+7번째 입력과 문장 생성!!
+진정한 쓰레기 negative
+Real attributes recon:  진짜 쓰레기 :  negative
+Fake attributes recon:  진짜 재미있다 :  positive
+Encoder-Decoder Recurrent recon:  진짜 쓰레기
+real-fake-real Recurrent recon:  솔짜 쓰레기같
+
+8번째 입력과 문장 생성!!
+마치 미국애니에서 튀어나온듯한 창의력없는 로봇디자인부터가,고개를 젖게한다 negative
+Real attributes recon:  무슨생각으로 만든건지 모르겠다,,,,,,,,,,,,,,, :  negative
+Fake attributes recon:  마음이 따뜻해지는 느낌이랄까,,,,,,,,,,,,,,, :  positive
+Encoder-Decoder Recurrent recon:  무무 내에서니메도어나오는다한데작적없는 전맨은스가가 어,전한 [UNK]은해
+real-fake-real Recurrent recon:  마이,이들이의의어나오다한 느작적,는,맨..듯가.,전를 [UNK]어해.
+
+9번째 입력과 문장 생성!!
+갈수록 개판되가는 중국영화 유치하고 내용없음 폼잡다 끝남 말도안되는 무기에 유치한cg남무 아 그립다 동사서독같은 영화가 이건 3류아류작이다 negative
+Real attributes recon:  갈수록 짜증나는 영화네요. 스토리도 개연성도 없고, 스토리도 엉성하고 연출 :  negative
+Fake attributes recon:  갈수록 재미있게 봤던 영화인데 평점이 너무 낮아서 10점준다. 이영화는 정 :  positive
+Encoder-Decoder Recurrent recon:  갈수록 짜연인네데영화중치한 재용도고 재만고진까지자도안되는 스협서치한거gv자기쉬냥다그생랑방이은영에아해뭐류영니작
+real-fake-real Recurrent recon:  별수록 재연이서데인화는치해서 재용도고.도이.까지.도 안되는 영화협.치하다 영화
+
+10번째 입력과 문장 생성!!
+이별의 아픔뒤에 찾아오는 새로운 인연의 기쁨 But, 모든 사람이 그렇지는 않네.. positive
+Real attributes recon:  이의 사랑을 사랑하는 사람의 삶을 살아야할 것 같다... 그래도 최고의 영화 :  positive
+Fake attributes recon:  이연걸의 아름다운 사랑과 전쟁의 아픔을 느끼게 해준다... :  positive
+Encoder-Decoder Recurrent recon:  이의의 사픔을에 대한아서 순 시생이 감억..,게 너립지 않다요.
+real-fake-real Recurrent recon:  이연의 사름을에 대한아볼 순 시생이 모습을억...게 보립지.다..
+
+11번째 입력과 문장 생성!!
+한국독립영화의 한계 그렇게 아버지가 된다와 비교됨 negative
+Real attributes recon:  이영화의 한계가 이렇게 아까운영화다 :  negative
+Fake attributes recon:  한국영화의 현실이란 말이 필요없는 최고의 영화 :  positive
+Encoder-Decoder Recurrent recon:  이영교영화의 현계가이 만는 나는 교된다
+real-fake-real Recurrent recon:  한국영교영화의 수계가만 만는 나는는교해 이
+
+12번째 입력과 문장 생성!!
+청춘은 아름답다 그 아름다움은 이성을 흔들어 놓는다. 찰나의 아름다움을 잘 포착한 섬세하고 아름다운 수채화같은 퀴어영화이다. positive
+Real attributes recon:  청춘의 아름다운 사랑이야기. 그런데 그런 사랑이야기 아름다운 사랑과 :  positive
+Fake attributes recon:  전형적인 사랑이야기 아니지만, 그냥 그런 영화에요. 그냥 그런영화에 대한 모습 :  negative
+Encoder-Decoder Recurrent recon:  청춘의 아름다다.냥름다운과 아 영화 보한서고. 아리의 연름다운 느 표기한 영화세한 아름다운 영화작영의은 영화어영화
+real-fake-real Recurrent recon:  전소이 아니다다.냥름다운과 아 영화 보해요다. 아리리 영화름다운 보만기하다 영화세
+
+13번째 입력과 문장 생성!!
+눈에 보이는 반전이었지만 영화의 흡인력은 사라지지 않았다. positive
+Real attributes recon:  눈물이 나와서 영화의 감동이 있는 영화. 최고의 영화입니다. :  positive
+Fake attributes recon:  내용은 아무것도 없는 영화다. 이 영화는 그냥 쓰레기 영화 :  negative
+Encoder-Decoder Recurrent recon:  눈물 감는 영화전 영화 있는 영화는 감입입에 정실진다 않는다.
+real-fake-real Recurrent recon:  내물 감는 영화전 영화 있는 영화는 감입입에 정랑져지 않.
+
+14번째 입력과 문장 생성!!
+"""스토리, 연출, 연기, 비주얼 등 영화의 기본 조차 안된 영화에 무슨 평을 해. 이런 영화 찍고도 김문옥 감독은 """"내가 영화 경력이 몇OO인데 조무래기들이 내 영화를 평론해?"""" 같은 마인드에 빠져있겠지?""" negative
+Real attributes recon:  " " " 영화는 이 영화가 이렇게 재미없는 영화는 처음이다... 이 영화를 보는 내내 이거 :  negative
+Fake attributes recon:  " " " 영화의 진수!!!!!!!!!!!!!!!!!!!!!!! :  positive
+Encoder-Decoder Recurrent recon:  " " " 영화토리, 연출, 연기, 연주얼,등, 전본도연도습 영화.요슨.점 받야. 영화를는, 나기성의의 이 " " " 이가 이를찰 "년을가,금지도 " 이가를 보가가도 " " " " 이 영화음드가 "져들어다. " " "
+real-fake-real Recurrent recon:  " " " 영화토리도 연기, 연기, 연주얼도등. [UNK]본도합도나 것.요슨 [UNK]점 [UNK]야
+
+15번째 입력과 문장 생성!!
+소위 ㅈ문가라는 평점은 뭐냐? positive
+Real attributes recon:  [UNK] 평점이 왜 이래?? :  positive
+Fake attributes recon:  [UNK] 평점 왜 이리 평점이 높지? :  positive
+Encoder-Decoder Recurrent recon:  [UNK]름 [UNK] 평점이 왜지?
+real-fake-real Recurrent recon:  평년 평 평점이 왜지? 이
+
+16번째 입력과 문장 생성!!
+최고!!!!!!!!!!!!!!!! positive
+Real attributes recon:  최고!!!!!!!!!!!!!!!!!!!!!!!!!!!!! :  positive
+Fake attributes recon:  진짜 재미없다..... :  negative
+Encoder-Decoder Recurrent recon:  최고!!!!!!!!!!!!!!!!!
+real-fake-real Recurrent recon:  진다!!!!!!!!!!!!!!!!
+
+17번째 입력과 문장 생성!!
+발연기 도저히 못보겠다 진짜 이렇게 연기를 못할거라곤 상상도 못했네 negative
+Real attributes recon:  발연기 너무 재미없어서 1점준것중에 한국영화는 10점준다 :  negative
+Fake attributes recon:  발연기 너무 좋아요 재미있게 봤어요 ^ ^ * * * * * * * * * * * * * :  positive
+Encoder-Decoder Recurrent recon:  발연기 너대히 못보겠네 이짜 재건 재기 못하는거같곤 하황도 못하음
+real-fake-real Recurrent recon:  발연기 너저히 못보겠네 ~짜 재건 재기 못하는게같곤볼황력 못하음요
+
+18번째 입력과 문장 생성!!
+나이스 positive
+Real attributes recon:  최고다!!! :  positive
+Fake attributes recon:  하루종일관람객 :  negative
+Encoder-Decoder Recurrent recon:  최고름토
+real-fake-real Recurrent recon:  후만토
+
+19번째 입력과 문장 생성!!
+별 재미도없는거 우려먹어 .... 챔프에서 방송 몇번했더라 ? ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ negative
+Real attributes recon:  별루 재미없다... 1점도 아깝다... 1점준것중에 한국영화는 10점준 :  negative
+Fake attributes recon:  별 재미도없고........................ :  negative
+Encoder-Decoder Recurrent recon:  별루미도없고거.리먹기.....서도나도번이나는데니면?
+real-fake-real Recurrent recon:  별루미도없고..연먹네.....서도도.번이나는데라...
+
+20번째 입력과 문장 생성!!
+'13일의 금요일', '나이트메어'시리즈와 함께 가장 많은 시리즈를 양산해냈던 헬레이저 시리즈의 첫편. 작가의 상상력이 돋보이는 작품이며, 갈고리로 사지찢는 고어씬은 지금보더라도 상당히 잔인하고 충격적이다. positive
+Real attributes recon:  '''''''''''''''''''''''''''''' :  positive
+Fake attributes recon:  '''''''''''''''''''''''''''''' :  positive
+Encoder-Decoder Recurrent recon:  ''''요일'[UNK]'[UNK]''이션'이 '는 보 [UNK] 사를 보아해준어,기이크,는 [UNK]사을.품의 대상력라보이는 작품이, 이수를 주,민물에서 정금도니니도,당히 유잔한.격적이다.
+real-fake-real Recurrent recon:  ''''요일'아'[UNK]''이션'이 '는 보 좋 것을를 보심해준어 영화.
+
+21번째 입력과 문장 생성!!
+나름 교훈돋기는 하지만 어쩔수없이 저평점 받을수밖에 없는 저질섹스코미디 negative
+Real attributes recon:  나름대로 재미없고 지루하고 재미없고 지루하고 재미없는것도아니고 :  negative
+Fake attributes recon:  나름대로 재미있게 봤는데, 지금보면 어떻게든지 모르겠다 :  negative
+Encoder-Decoder Recurrent recon:  나름대로훈적는데 그떻수없는 지렇게가은을만있에없게질영 럽드디
+real-fake-real Recurrent recon:  나름대로훈적는데 그떻수없는 봤렇게가이을만있에 없듯질영   디
+
+22번째 입력과 문장 생성!!
+꽤 재밌게 본 영화였다! positive
+Real attributes recon:  [UNK] 최고의 영화!! :  positive
+Fake attributes recon:  [UNK] 영화 [UNK] 본 영화! :  positive
+Encoder-Decoder Recurrent recon:  [UNK] [UNK] 영화 영화!!
+real-fake-real Recurrent recon:  [UNK] [UNK] 영화 영화중!!
+
+23번째 입력과 문장 생성!!
+민주화 시대의 억눌린 영혼의 관음적인 욕구 분출.인상적이다. positive
+Real attributes recon:  위대한 사랑의 사랑과 전쟁의 정치.. 정말 감동적이었습니다. :  positive
+Fake attributes recon:  악역의 연기는 정말로.. 그냥 그런데 그냥 그런영화. :  negative
+Encoder-Decoder Recurrent recon:  위족주의의의 정지스,상의 감계..망.위..생적이.
+real-fake-real Recurrent recon:  악족주의의의 연지..상. 연계..망.위..생적..
+
+24번째 입력과 문장 생성!!
+일본 천황이 미국으로부터 받은 면죄부의 긴박한 과정을 루즈하고 지저분하게 늘어놓았다. negative
+Real attributes recon:  외국인공이 이렇게 지루한 전개와 스토리와 전개가 너무나도 허무하다. :  negative
+Fake attributes recon:  근데 이거보단 훨씬 더 재미있게 본다면,,,,,,,,,,,,, :  positive
+Encoder-Decoder Recurrent recon:  외은재만랑을서 시 시에서를,장감 스거 느즈한,루분한 만어놓은.
+real-fake-real Recurrent recon:  근은재만랑판서 시 시에서..장감 스거 보즈한,루분한 만어놓은..
+
+25번째 입력과 문장 생성!!
+괜히 나올 때 어미 알 건드려서 긁어 부스름 만들었다는 분이 저 아래 보이던데, 영화 제대로 안 봤네. 알이 딱 까지면서 새끼가 나오려 했음. 그냥 가면 그 놈 한테 당했을 것임. 한 놈, 두 놈 막 나올 게 뻔했으니 작살낼 수 밖에 없었다. positive
+Real attributes recon:  괜찮은데, 그래서 [UNK] 이렇게 지루한 영화가 아니라 그냥 그런데 그게 다가온다. 이 :  negative
+Fake attributes recon:  괜히 봤다면 [UNK] 그냥 그런데 그냥 그런데 그냥 그런데 그냥 그런데 그냥 그런 :  negative
+Encoder-Decoder Recurrent recon:  괜찮 봤오는때가떻 [UNK]고 [UNK]라서 [UNK] 이분럽을들어고. 것들라런이서는네데. 이가목 된보는데요 이바라 그지 말도벽가 나와고고는데. 그냥 그슴갈렇게들이번는할을까 같은. 그마이 그 주이장오는때 없다한을니까가. 수 있에 없다.
+real-fake-real Recurrent recon:  괜찮 봤오수 [UNK]려 [UNK]게 [UNK]네요 [UNK] 그족럽을들어었는게들라런이요여네데
+
+26번째 입력과 문장 생성!!
+50번은 봤네요어쩜 이렇게 잘만들었을까 positive
+Real attributes recon:  [UNK] 이렇게 지루한 영화는 처음이다 [UNK] :  negative
+Fake attributes recon:  [UNK] 이렇게 지루한 영화는 처음이다 [UNK] :  negative
+Encoder-Decoder Recurrent recon:  [UNK]년은 [UNK] 이렇게 지만든었을까?
+real-fake-real Recurrent recon:  [UNK]년을 본 본렇게 지만든었을까?
+
+27번째 입력과 문장 생성!!
+실화라서더욱아름답고찡하네요...많이울었어요벌써4년이란시간이흘렀네요 positive
+Real attributes recon:  [UNK]... 너무재미있어요 ~ ~ ~ ~ ~ ~ ~ :  positive
+Fake attributes recon:  [UNK]... 재미없어요.. 그냥저냥보네요 :  negative
+Encoder-Decoder Recurrent recon:  [UNK]... 너 울었어요.레요가이 지걸에아러네요
+real-fake-real Recurrent recon:  [UNK]... 너 울었어요.레요가이 지걸에아러네요
+
+28번째 입력과 문장 생성!!
+이건뭐 노답이네 80~90년대 어린이 영화좀 보고 본받아라! negative
+Real attributes recon:  이게 영화냐? 아니면 이 영화를 보면 후회할 영화다!! :  negative
+Fake attributes recon:  이거 영화관에서 봤는데 정말 재미있게 본 영화입니다!! :  positive
+Encoder-Decoder Recurrent recon:  이게 뭐 아답이네요년대 이년대 영화이용를 그싶다아야
+real-fake-real Recurrent recon:  이거 영화 영화출 영화 영화 영화년대 영화년대 영화 시 영화를 만싶다아서.!
+
+29번째 입력과 문장 생성!!
+지금까지 본 영화중 마음이 가장 따뜻해지는 영화. positive
+Real attributes recon:  지금까지 본 영화중에 가장 재미있는 영화. :  positive
+Fake attributes recon:  지금 이 영화를 보고나면 기분이 좋다. 영화는 [UNK] :  positive
+Encoder-Decoder Recurrent recon:  지금까지 본 영화중에 가장음이 따 좋뜻한지는 영화.
+real-fake-real Recurrent recon:  지금까지 본 영화중에 가장음이 따 좋뜻한지는 영화. [UNK]
+
+30번째 입력과 문장 생성!!
+너무너무 재밌다 positive
+Real attributes recon:  너무너무너무 [UNK] :  positive
+Fake attributes recon:  너무너무너무 [UNK] :  positive
+Encoder-Decoder Recurrent recon:  너무너무너
+real-fake-real Recurrent recon:  너무너무 재 봤
+
+31번째 입력과 문장 생성!!
+안보면 후회ㅠㅠ... positive
+Real attributes recon:  [UNK]... [UNK] :  positive
+Fake attributes recon:  [UNK]... [UNK] :  positive
+Encoder-Decoder Recurrent recon:  [UNK]보면 [UNK]...
+real-fake-real Recurrent recon:  음녕면 [UNK]... 이
+
+32번째 입력과 문장 생성!!
+평점1점도 주기싫어지는 영화 배우나 감독이라는 사람이나 영화판에서 안봐으면 한다 그리고 평점알바생들 너무 티난다 negative
+Real attributes recon:  평점이 왜 이렇게 낮은 영화는 처음이네요 이거보고 나서도 이런영화에 나오는거지? :  positive
+Fake attributes recon:  평점이 왜 이렇게 낮은 영화는 처음이네요 이영화는 정말 이렇게 재미없는 영화는 처음이다 :  positive
+Encoder-Decoder Recurrent recon:  평점이점도 아기 아은 영화 영화는들 이이 연 배우 이 나를에 나보서서는 이점이바들들인무나비다
+real-fake-real Recurrent recon:  평점이점이 아기 아은 영화 영화다들 연이 연 배우 이 이가이 이보서서는 이점이바들들
+
+33번째 입력과 문장 생성!!
+정말,진짜,표현할수 없는 영화... negative
+Real attributes recon:  정말 실망스럽다... 영화는.. :  negative
+Fake attributes recon:  정말 감동적이다... 영화의 최고봉!! :  positive
+Encoder-Decoder Recurrent recon:  정말 실,짜 영화 영화현. 수 없는 영화...
+real-fake-real Recurrent recon:  정말 쓰 영화짜 영화 영화현력 수 없는 영화....
+
+34번째 입력과 문장 생성!!
+엉성한 액션에, 시나리오는 왜그러지.. 막판에 대동단결?? negative
+Real attributes recon:  짜증나는 드라마,,,,,,,,,,,,,,,,,,,,,,,,,, :  negative
+Fake attributes recon:  긴장감, 스토리, 연출, 연출, 연기, 스토리, 연출,,,,,, :  negative
+Encoder-Decoder Recurrent recon:  짜성한 스션, 대한,간리오,곡러냐...장에.체이????
+real-fake-real Recurrent recon:  긴성한 스션,,,간리오, 이래지...장에.박..말?
+
+35번째 입력과 문장 생성!!
+101, 102.. 103은 못나올것 같다. negative
+Real attributes recon:  뭐... 그냥 그냥저냥보면 [UNK] :  negative
+Fake attributes recon:  뭐... 그냥 지루하고 재미없음 :  negative
+Encoder-Decoder Recurrent recon:  뭐.....라데보겠듯같.
+real-fake-real Recurrent recon:  ..,.... 느생지만때같. 이
+
+36번째 입력과 문장 생성!!
+....재미가없어요 시간이 아깝고 negative
+Real attributes recon:  ... 너무하네요.. 시간아깝다 :  negative
+Fake attributes recon:  ... 너무재미있어요... :  positive
+Encoder-Decoder Recurrent recon:  ... 너 너미없없네요.간 아깝다
+real-fake-real Recurrent recon:  .... 재미없없다서.간 아까다 재
+
+37번째 입력과 문장 생성!!
+북괴는 우리의 주적일뿐이다. negative
+Real attributes recon:  욕나온다. 이건 뭐 :  negative
+Fake attributes recon:  수애가 무엇인지 알 수 있다. :  positive
+Encoder-Decoder Recurrent recon:  욕한의 사리 미인이다 뿐..
+real-fake-real Recurrent recon:  후한이 이리 현인이이이다. 이
+
+38번째 입력과 문장 생성!!
+ㅋㅋㅋ 난생처음 로그인하고 평점남기네요.. 개빡쳐서.. 알바들 속지마세요 이런 ㄱ ㅐ같은 시간낭비가. 아놔진짜평점 마이너스 별오만개 negative
+Real attributes recon:  [UNK] [UNK] 한심한거아닌가요???????????????????? :  negative
+Fake attributes recon:  [UNK] [UNK] 한번보고싶은데... 아무리봐도 [UNK] 영화가아니라 그런지모르겠지만 :  positive
+Encoder-Decoder Recurrent recon:  [UNK] [UNK]해각음이그인하게 [UNK]점이기네.......바들아이마세요.영 영화 영화청아비한 아..음너스가점다
+real-fake-real Recurrent recon:  [UNK] 별해각음.그인하게 [UNK]점이기네...... 영화바들아아마라요  영화  간아비
+
+39번째 입력과 문장 생성!!
+셰익스피어는 셰익스피어고 이영화는 이영화. negative
+Real attributes recon:  태어나서 이영화는 진짜 재미없다. 이건뭐. :  negative
+Fake attributes recon:  태어나서 이영화는 정말 최고의 드라마.. 이영화는 정말 최고다 :  positive
+Encoder-Decoder Recurrent recon:  태익스토트 이출스토스가 이영화는.제화.
+real-fake-real Recurrent recon:  태아이러어 이출스토트가.영화는.제화..
+
+40번째 입력과 문장 생성!!
+EBS 한국영화특선 해서 봤다.Biff 개막작 선정되서 왤까 궁금 했었는데 봐도 이율 모르겠다... negative
+Real attributes recon:  b급영화도 이거보단 낫겠다... [UNK] 이건 뭐지?????????? :  negative
+Fake attributes recon:  b급영화라서 봤는데... 이건 뭐 [UNK] 이영화는 왜 이렇게 평점이 낮은지 모르 :  negative
+Encoder-Decoder Recurrent recon:  bbs에서영화는집으로서 봤는데..은 [UNK]봉장인택 [UNK]서 봤.금해서는데.도.건.르겠다...
+real-fake-real Recurrent recon:  1bs에서영화는유이야 봤는데..은.봉장.택.서 [UNK].금하다는데.야.건.르겠네.
+
+41번째 입력과 문장 생성!!
+뭐야??라는 말 밖에는... negative
+Real attributes recon:  뭐야???????? :  negative
+Fake attributes recon:  뭐야... 이건 뭐... :  negative
+Encoder-Decoder Recurrent recon:  뭐야??? 생이에...
+real-fake-real Recurrent recon:  하다냐... 생이.....
+
+42번째 입력과 문장 생성!!
+이게 영화야? negative
+Real attributes recon:  이 영화가 왜?? :  positive
+Fake attributes recon:  이 영화가 최고!! :  positive
+Encoder-Decoder Recurrent recon:  이 영화 영화냐?
+real-fake-real Recurrent recon:  이 영화 영화냐??
+
+43번째 입력과 문장 생성!!
+애니는 일본이 갑인듯. positive
+Real attributes recon:  애니가 이렇게 재미있게 봤다. :  positive
+Fake attributes recon:  애니가 이렇게 평점이 높다. :  negative
+Encoder-Decoder Recurrent recon:  애니가 이이야이다데.
+real-fake-real Recurrent recon:  다니가 좋인라는자데. 이
+
+44번째 입력과 문장 생성!!
+롭 코헨의 몰락의 OO점 negative
+Real attributes recon:  제목의 스타일의 매력은 :  positive
+Fake attributes recon:  왕의 유쾌한 감동의 최고의 영화 :  positive
+Encoder-Decoder Recurrent recon:  제의믹의미입을 망oo
+real-fake-real Recurrent recon:  일의미을 시입을 한oo같이
+
+45번째 입력과 문장 생성!!
+감동적이다.... positive
+Real attributes recon:  감동적이다... :  positive
+Fake attributes recon:  야한영화... :  positive
+Encoder-Decoder Recurrent recon:  감동적이다...
+real-fake-real Recurrent recon:  후동적이고... 이 이
+
+46번째 입력과 문장 생성!!
+은빛날개의 조종사 negative
+Real attributes recon:  야한장면만큼이나 [UNK] :  negative
+Fake attributes recon:  야한장면들이 좋아요 :  positive
+Encoder-Decoder Recurrent recon:  야근나때 정폭차
+real-fake-real Recurrent recon:  야근나때 무금이건
+
+47번째 입력과 문장 생성!!
+마음이1을보신분들은 이해하시겟지만 2는망장입니다 졸작이죠 솔직히말해선;; 그이유는 예를들면 엽기적인그녀는 긴시간을두고 코메디 멜로를 그렷습니다 하지만 이영화는 단시간 10분안에 모든것을 소화하려는 욕심 코믹하다 3분채안돼갑자기 생뚱맞게 슬픈음악이깔리고 negative
+Real attributes recon:  마이너스가없는영화인데 평점이 왜이리 높아??????????? :  negative
+Fake attributes recon:  마음이 따뜻해지는영화인데 평점이 낮아서 10점준다면 10점준다면 10점준 :  positive
+Encoder-Decoder Recurrent recon:  마이이안점위는분들 다영가겠는다 이편 3작창니다.작이라?직히말이도 안 ; ;냥상가없이고 다문적인거리가거장이보고있미디인로영 만리다니다만 이영화는 정순에분이에 들어게 알재하는려고건망이미영가점이널에는니다기자각맞은만프영악
+real-fake-real Recurrent recon:  마이이 따점 안고분들은 평영가겠는다 평편 평작면니다 평작이라?직히 1까라 안
+
+48번째 입력과 문장 생성!!
+이런스타일 액션영화 굿굿!! positive
+Real attributes recon:  이런영화 진짜재미있어요!!! :  positive
+Fake attributes recon:  이런영화 왜만들지????? :  negative
+Encoder-Decoder Recurrent recon:  이런영토일영션영화!!!!!
+real-fake-real Recurrent recon:  이런영토일 좋션영화라고!!!!
+
+49번째 입력과 문장 생성!!
+제임스 헷필드 50먹고 더 파워풀해졌어ㅋㅋㅋㅋ positive
+Real attributes recon:  진짜 [UNK] 봤어요 ^ ^ :  positive
+Fake attributes recon:  진짜 [UNK] 재미없음 [UNK] :  negative
+Encoder-Decoder Recurrent recon:  진발스 [UNK] [UNK]번고 [UNK] [UNK]
+real-fake-real Recurrent recon:  진발스 [UNK] 봤년대은 재빙 봤
+
+50번째 입력과 문장 생성!!
+돈만있으면 내가 이것보단 더잘만들겠따 ㅋ negative
+Real attributes recon:  욕나오고 이건뭐지?? 이게뭐야?? [UNK] :  negative
+Fake attributes recon:  굉장히 좋아하는데 이영화는 진짜재밋게봤어요 [UNK] :  positive
+Encoder-Decoder Recurrent recon:  욕아들으면서가본걸보단 낫빙만들었다 [UNK]
+real-fake-real Recurrent recon:  정주들으면서가본걸보단 잘럽만들었다 [UNK]
+
+정확도: 66.00000000000003%

@@ -1,0 +1,130 @@
+진짜 진~짜 할 일 없을 때 보시길... negative
+latent attributes:  [1.0, 0.0]   진짜 별로다... 그냥 보는내내 답답해서 [UNK]  cls_out:  negative
+latent attributes:  [0.9, 0.1]   진짜 별로다... 그냥 보는내내 답답해서 [UNK]  cls_out:  negative
+latent attributes:  [0.8, 0.2]   진짜 별로다... 그냥 보는내내 답답해서 [UNK]  cls_out:  negative
+latent attributes:  [0.7, 0.30000000000000004]   진짜 너무 지루해서 못보겠다....  cls_out:  negative
+latent attributes:  [0.6, 0.4]   진짜 너무 지루해서 못보겠다....  cls_out:  negative
+latent attributes:  [0.5, 0.5]   진짜 너무 좋아서 봤는데... 아무튼 영화도 [UNK]  cls_out:  positive
+latent attributes:  [0.3999999999999999, 0.6000000000000001]   진짜 너무 좋아요... 아니면 이 영화가 [UNK]  cls_out:  positive
+latent attributes:  [0.29999999999999993, 0.7000000000000001]   진짜 너무 좋아요... 아직도 이런 영화가 있었지  cls_out:  positive
+latent attributes:  [0.19999999999999996, 0.8]   진짜 너무 좋아요... 아직도 기억에 남는다.  cls_out:  positive
+latent attributes:  [0.09999999999999998, 0.9]   진짜 너무 좋아요... 아직도 기억에 남는다.  cls_out:  positive
+latent attributes:  [0.0, 1.0]   진짜 잘만들었어요... 아직도 이런 영화가 [UNK]  cls_out:  positive
+ 
+S급 남녀주인공으로 만든 C급 영화 negative
+latent attributes:  [1.0, 0.0]   영화중 최악의 쓰레기 영화  cls_out:  negative
+latent attributes:  [0.9, 0.1]   영화중 최악의 쓰레기 영화  cls_out:  negative
+latent attributes:  [0.8, 0.2]   영화중 최악의 쓰레기 영화  cls_out:  negative
+latent attributes:  [0.7, 0.30000000000000004]   영화중 최악의 쓰레기 영화  cls_out:  negative
+latent attributes:  [0.6, 0.4]   영화중 최악의 영화 중 하나  cls_out:  negative
+latent attributes:  [0.5, 0.5]   영화중 최악의 영화 중 하나  cls_out:  negative
+latent attributes:  [0.3999999999999999, 0.6000000000000001]   영화중 최악의 영화중 최악의 영화  cls_out:  negative
+latent attributes:  [0.29999999999999993, 0.7000000000000001]   영화중 최악의 영화중 하나  cls_out:  negative
+latent attributes:  [0.19999999999999996, 0.8]   영화중 가장 최악의 영화중 하나  cls_out:  negative
+latent attributes:  [0.09999999999999998, 0.9]   영화중 가장 최악의 영화중 하나  cls_out:  negative
+latent attributes:  [0.0, 1.0]   최고의 영화중 최고의 영화!!  cls_out:  positive
+ 
+짱깨 영화에 아까운 시간을 빼앗겼다. negative
+latent attributes:  [1.0, 0.0]   참나 영화가 너무 아깝다..  cls_out:  negative
+latent attributes:  [0.9, 0.1]   참나 영화가 너무 아깝다..  cls_out:  negative
+latent attributes:  [0.8, 0.2]   참나 영화가 너무 아깝다..  cls_out:  negative
+latent attributes:  [0.7, 0.30000000000000004]   참나 영화가 너무 아깝다.  cls_out:  negative
+latent attributes:  [0.6, 0.4]   영화보고 이 영화를 보는 내내 너무 재미없다.  cls_out:  negative
+latent attributes:  [0.5, 0.5]   영화보고 이 영화를 보는 내내 너무 좋다.  cls_out:  positive
+latent attributes:  [0.3999999999999999, 0.6000000000000001]   영화보고 이 영화를 보는 내내 너무 좋다.  cls_out:  positive
+latent attributes:  [0.29999999999999993, 0.7000000000000001]   영화보고 이 영화를 보는 내내 너무 좋다.  cls_out:  positive
+latent attributes:  [0.19999999999999996, 0.8]   영화보고 이 영화를 보면서 너무 좋았다.  cls_out:  positive
+latent attributes:  [0.09999999999999998, 0.9]   영화보고 이 영화를 보면서 너무 좋았습니다.  cls_out:  positive
+latent attributes:  [0.0, 1.0]   짱짱 영화중 최고의 영화였습니다.  cls_out:  positive
+ 
+마지막까지 힘을잃지않은 드라마~~ positive
+latent attributes:  [0.0, 1.0]   최고다 ~ ~ ~ ~ ~ ~ ~ ~ ~  cls_out:  positive
+latent attributes:  [0.1, 0.9]   최고다 ~ ~ ~ ~ ~ ~ ~ ~ ~  cls_out:  positive
+latent attributes:  [0.2, 0.8]   최고다 ~ ~ ~ ~ ~ ~ ~ ~ ~  cls_out:  positive
+latent attributes:  [0.30000000000000004, 0.7]   최고다 ~ ~ ~ ~ ~ ~ ~ ~ ~  cls_out:  positive
+latent attributes:  [0.4, 0.6]   최고다 ~ ~ ~ ~ ~ ~ ~ ~ ~  cls_out:  positive
+latent attributes:  [0.5, 0.5]   최고다 ~ ~ ~ ~ ~ ~ ~ ~ ~  cls_out:  positive
+latent attributes:  [0.6000000000000001, 0.3999999999999999]   최고다 ~ ~ ~ ~ ~ ~ ~ ~ ~  cls_out:  positive
+latent attributes:  [0.7000000000000001, 0.29999999999999993]   그냥 재미없는영화 ~ ~ ~  cls_out:  negative
+latent attributes:  [0.8, 0.19999999999999996]   그냥 재미없는영화 ~ ~ ~  cls_out:  negative
+latent attributes:  [0.9, 0.09999999999999998]   그냥 재미없는영화 ~ ~ ~  cls_out:  negative
+latent attributes:  [1.0, 0.0]   그냥 재미없는영화 ~ ~ ~  cls_out:  negative
+ 
+노래와 배우가 매력적인 영화.. positive
+latent attributes:  [0.0, 1.0]   영화는 정말 최고의 영화..  cls_out:  positive
+latent attributes:  [0.1, 0.9]   영화는 정말 최고의 영화..  cls_out:  positive
+latent attributes:  [0.2, 0.8]   영화는 진짜 최고다..  cls_out:  positive
+latent attributes:  [0.30000000000000004, 0.7]   영화는 진짜 최고다..  cls_out:  positive
+latent attributes:  [0.4, 0.6]   영화는 진짜 최고다..  cls_out:  positive
+latent attributes:  [0.5, 0.5]   영화는 진짜 재미없다..  cls_out:  negative
+latent attributes:  [0.6000000000000001, 0.3999999999999999]   영화는 진짜 재미없다..  cls_out:  negative
+latent attributes:  [0.7000000000000001, 0.29999999999999993]   영화는 진짜 재미없다..  cls_out:  negative
+latent attributes:  [0.8, 0.19999999999999996]   영화는 진짜 최악이다..  cls_out:  negative
+latent attributes:  [0.9, 0.09999999999999998]   영화는 진짜 최악이다..  cls_out:  negative
+latent attributes:  [1.0, 0.0]   거지같은 영화..  cls_out:  negative
+ 
+허술한부분이 많지만 10년전임을 감안할때 놀랍습니다! positive
+latent attributes:  [0.0, 1.0]   요즘은 정말좋아하는데 이영화는 정말 재미있게 봤습니다!  cls_out:  positive
+latent attributes:  [0.1, 0.9]   요즘은 정말좋아하는데 이영화는 정말 재미있게 봤습니다!  cls_out:  positive
+latent attributes:  [0.2, 0.8]   요즘은 정말좋아하는데 이영화는 정말 재미있게 봤습니다!  cls_out:  positive
+latent attributes:  [0.30000000000000004, 0.7]   요즘은 정말 재미있게 봤습니다!!!!!!  cls_out:  positive
+latent attributes:  [0.4, 0.6]   거부감이 많이남는거같아요!!!!!!!!  cls_out:  positive
+latent attributes:  [0.5, 0.5]   허무한거아닌가요? 아무리봐도 질리지않는영화  cls_out:  positive
+latent attributes:  [0.6000000000000001, 0.3999999999999999]   허무한거아닌가요? 아무리봐도 질리지않는영화  cls_out:  positive
+latent attributes:  [0.7000000000000001, 0.29999999999999993]   허무한거아닌가요? 아무리봐도 질리지않는영화  cls_out:  positive
+latent attributes:  [0.8, 0.19999999999999996]   허무한거아닌가요? 아무리봐도 질리지않는영화  cls_out:  positive
+latent attributes:  [0.9, 0.09999999999999998]   허무한거아닌가요? 아무리봐도 질리지않는영화  cls_out:  positive
+latent attributes:  [1.0, 0.0]   허무한거아닌가요? 아무리봐도 질리지않는영화  cls_out:  positive
+ 
+한국 애니 화이팅! 우수한 애니메이터들이 외국에 안가도 되도록 한국애니도 많은 지원해줬으면.. positive
+latent attributes:  [0.0, 1.0]   이영화를 보고 나서야 이영화는 정말 아름다운 영상미.. 아직도 이영화의 감  cls_out:  positive
+latent attributes:  [0.1, 0.9]   이영화를 보고 나서야 이영화는 정말 아름다운 영상미.. 아직도 이영화의 정  cls_out:  positive
+latent attributes:  [0.2, 0.8]   이영화를 보고 나서야 이영화는 정말 아름다운 영상미.. 아직도 이영화의 정  cls_out:  positive
+latent attributes:  [0.30000000000000004, 0.7]   이영화를 보고 나서야 이영화는 정말 아니다. 이영화는 정말 아름다운 영상미가  cls_out:  positive
+latent attributes:  [0.4, 0.6]   이영화를 보고 나서야 이영화는 정말 아니다. 이영화는 정말 아무것도 모르겠다  cls_out:  negative
+latent attributes:  [0.5, 0.5]   이영화를 왜 이렇게 평점이 낮은지 모르겠다. 이건 뭐,,,,,,,,,,  cls_out:  positive
+latent attributes:  [0.6000000000000001, 0.3999999999999999]   이영화를 왜 이렇게 평점이 낮은지 모르겠다. 이건 뭐,,,,,,,,,,  cls_out:  positive
+latent attributes:  [0.7000000000000001, 0.29999999999999993]   이영화를 왜 이렇게 평점이 낮은지 모르겠다. 이건 뭐,,,,,,,,,,  cls_out:  positive
+latent attributes:  [0.8, 0.19999999999999996]   이영화를 왜 이렇게 평점이 낮은지 모르겠다. 이건 뭐,,,,,,,,,,  cls_out:  positive
+latent attributes:  [0.9, 0.09999999999999998]   이영화를 왜 이렇게 평점이 낮은지 모르겠다. 이건 뭐 그냥 그런데 그냥 그런데  cls_out:  negative
+latent attributes:  [1.0, 0.0]   이영화를 왜 이렇게 평점이 낮은지 모르겠다. 이건 뭐 그냥 그런데 그냥 그런데  cls_out:  negative
+ 
+와 보는내내 긴장감이 쩐다 쿠엔텐 타란티노 진짜 영화 잘만드는 거는 인정해야 할 듯 positive
+latent attributes:  [0.0, 1.0]   [UNK] 보는 내내 눈물이 나오는 영화는 [UNK] 봤다. 정말 최고의 영화다!  cls_out:  positive
+latent attributes:  [0.1, 0.9]   [UNK] 보는 내내 눈물이 나오는 영화는 처음이다 [UNK] 정말 재미있게 본 영화입니다 [UNK]  cls_out:  positive
+latent attributes:  [0.2, 0.8]   [UNK] 보는 내내 눈물이 나오는 영화는 처음이다 [UNK] 정말 재미있게 본 영화입니다 [UNK]  cls_out:  positive
+latent attributes:  [0.30000000000000004, 0.7]   [UNK] 보는 내내 눈물이 나오는 영화는 처음이다 [UNK] 정말 재미없다 이 영화는 정말 최고다  cls_out:  positive
+latent attributes:  [0.4, 0.6]   [UNK] 보는 내내 짜증나는 영화네요 [UNK] 아무리 영화라지만 이건 진짜 아니고 [UNK] 영화  cls_out:  negative
+latent attributes:  [0.5, 0.5]   [UNK] 보는 내내 짜증나는 영화네요 [UNK] 아무리 영화라지만 이건 진짜 아니고 [UNK] 영화  cls_out:  negative
+latent attributes:  [0.6000000000000001, 0.3999999999999999]   [UNK] 보는 내내 짜증나는 영화는 처음이네요 [UNK] 정말로 재미없는 영화는 처음이다  cls_out:  negative
+latent attributes:  [0.7000000000000001, 0.29999999999999993]   [UNK] 보는 내내 짜증나는 영화는 처음이네요 [UNK] 정말로 재미없는 영화는 처음이다  cls_out:  negative
+latent attributes:  [0.8, 0.19999999999999996]   [UNK] 보는 내내 짜증나는 영화는 처음이네요 [UNK] 정말로 재미없는 영화는 처음이다  cls_out:  negative
+latent attributes:  [0.9, 0.09999999999999998]   [UNK] 보는 내내 짜증나는 영화는 처음부터 끝까지 [UNK] 보는 내내 짜증나고 [UNK] 영화는 [UNK]  cls_out:  negative
+latent attributes:  [1.0, 0.0]   [UNK] 보는 내내 짜증나는 영화는 처음부터 끝까지 [UNK] 그냥 쓰레기영화다 [UNK]  cls_out:  negative
+ 
+캐스팅된 배우가 아깝다 negative
+latent attributes:  [1.0, 0.0]   영화가 너무 아깝다  cls_out:  negative
+latent attributes:  [0.9, 0.1]   영화가 너무 아깝다  cls_out:  negative
+latent attributes:  [0.8, 0.2]   영화가 너무 아깝다  cls_out:  negative
+latent attributes:  [0.7, 0.30000000000000004]   영화보는 내내 너무 좋다  cls_out:  positive
+latent attributes:  [0.6, 0.4]   영화보는 내내 너무 좋다  cls_out:  positive
+latent attributes:  [0.5, 0.5]   영화보는 내내 너무 좋다  cls_out:  positive
+latent attributes:  [0.3999999999999999, 0.6000000000000001]   영화보는 내내 너무 좋다  cls_out:  positive
+latent attributes:  [0.29999999999999993, 0.7000000000000001]   영화보는 내내 너무 좋다  cls_out:  positive
+latent attributes:  [0.19999999999999996, 0.8]   영화보는 내내 너무 좋다  cls_out:  positive
+latent attributes:  [0.09999999999999998, 0.9]   영화보고 이제야 보게되네요  cls_out:  positive
+latent attributes:  [0.0, 1.0]   영화보고 이제야 보게되네요  cls_out:  positive
+ 
+신선한 로맨스 저절로 웃음이난다 positive
+latent attributes:  [0.0, 1.0]   신선한 소재와 스토리도 좋고, 감동도 있고  cls_out:  positive
+latent attributes:  [0.1, 0.9]   신선한 소재와 스토리도 좋고, 감동도 있고  cls_out:  positive
+latent attributes:  [0.2, 0.8]   신선한 소재와 스토리도 좋고, 스토리도 [UNK]  cls_out:  positive
+latent attributes:  [0.30000000000000004, 0.7]   신선한 소재와 스토리도 좋고, 스토리도 [UNK]  cls_out:  positive
+latent attributes:  [0.4, 0.6]   신선한 소재와 스토리도 좋고, 스토리도 [UNK]  cls_out:  positive
+latent attributes:  [0.5, 0.5]   신선한 소재와 스토리도 탄탄하고 연기력  cls_out:  positive
+latent attributes:  [0.6000000000000001, 0.3999999999999999]   신선한 소재와 스토리도 탄탄하고 연기력  cls_out:  positive
+latent attributes:  [0.7000000000000001, 0.29999999999999993]   신선한 소재로 이렇게 재미없는 영화는 처음이다  cls_out:  negative
+latent attributes:  [0.8, 0.19999999999999996]   신선한 소재로 이렇게 재미없는 영화는 처음이다  cls_out:  negative
+latent attributes:  [0.9, 0.09999999999999998]   신선한 소재로 이렇게 재미없는 영화는 처음이다  cls_out:  negative
+latent attributes:  [1.0, 0.0]   신선한 소재로 이렇게 재미없는 영화는 처음이다  cls_out:  negative
+ 
