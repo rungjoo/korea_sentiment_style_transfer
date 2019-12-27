@@ -11,10 +11,10 @@
 ### 실험 목록
 1. 모델의 논문: Not_preserving_context_v3
 2. BERT embedding classifier: classifier_v3
-- BERT embedding후 BERT CNN classifier
-> 즉 Toward model에서의 classifier와 동일
+    - BERT embedding후 BERT CNN classifier
+    - 즉 Toward model에서의 classifier와 동일
 3. Word embedding classifier: classifier_v4 
-- Toward model classifier 부분만 학습
+    - Toward model classifier 부분만 학습
 
 ### 논문 링크
 1. [2019-HCLT 논문집링크](http://hclt.kr/symp/?lnb=conference)
