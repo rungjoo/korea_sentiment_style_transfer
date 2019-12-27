@@ -5,6 +5,8 @@
 1. Pytorch
 2. Python3
 3. [NSMC 데이터](https://github.com/e9t/nsmc)
+4. Pre-trained multilingual-BERT & vocab
+5. (option) tensorboardX
 
 ### 실험 목록
 1. 모델의 논문: Not_preserving_context_v3
