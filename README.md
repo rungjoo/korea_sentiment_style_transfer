@@ -4,7 +4,7 @@
 ### Requirements
 1. Pytorch
 2. Python3
-3. syntax: [NSMC 데이터](https://github.com/e9t/nsmc)
+3. [NSMC 데이터](https://github.com/e9t/nsmc)
 
 ### 실험 목록
 1. 모델의 논문: Not_preserving_context_v3
