@@ -15,5 +15,5 @@
 > Toward model classifier 부분만 학습
 
 ### 논문 링크
-syntax: [2019-HCLT 논문집링크](http://hclt.kr/symp/?lnb=conference)
-syntax: [논문 링크](https://drive.google.com/file/d/1lAx0aN2h_cuNuHaPdbOA9L7uGtEBfknF/view?usp=sharing)
+1. [2019-HCLT 논문집링크](http://hclt.kr/symp/?lnb=conference)
+2. [논문 링크](https://drive.google.com/file/d/1lAx0aN2h_cuNuHaPdbOA9L7uGtEBfknF/view?usp=sharing)
